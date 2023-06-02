@@ -2,9 +2,12 @@
     <head>
         <meta charset="utf-8">
 <style>
-   #but_hey { margin: 30px; }
+   #but_hey { margin: 30px; 
+   border: 1px solid rgb(0, 0, 0); }
 </style>
     </head>
+    
+    <style> div { border: 1px solid rgb(0, 0, 0); } </style>
     <body> <div>
     <h1 id="hey_hey"> hey this website talking about the butterfly </h1>
     </div>
