@@ -1,76 +1,45 @@
-<html>
-    <head>
-        <meta charset="utf-8">
-<style>
-   #but_hey { margin: 30px; 
-   border: 1px solid rgb(0, 0, 0); }
-</style>
-    </head>
+ <head>
+    <title>hey</title>
     
-    <style> div { border: 1px solid rgb(0, 0, 0); } </style>
-    <body> <div>
-    <h1 id="hey_hey"> hey this website talking about the butterfly </h1>
-    </div>
-    
-    <style>
-        #hey_hey { color:rgb(245, 12, 12);
-            
-            
-        }
-    </style>
-   
-    <style>
-       div { background:rgb(194, 194, 194); }
-    </style>
-    
-    <p>
-    
-    
-    </p>
-    
-    <img src ="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/animals/butterfly.png" width="300" id="but_hey"> <div>
-    <li id="butter_hey">butterfly, (superfamily Papilionoidea), any of numerous species of insects belonging to multiple families. Butterflies, along with the moths and the skippers, make up the insect order Lepidoptera. Butterflies are nearly worldwide in their distribution.
+  </head>
+  <body>
+    <h2 id="heyl"> .
+    </h2>
+     <style> 
+     #heyl { background-color: blue;}
+     #hey 
+     </style>
+     
+     <style>
+       #amazon { margin: 100px;}
+       #jugar { margin: 130px;}
+     #hey { border: solid 3px red;}
+     #h { margin: 300px; }
+     </style>
+     <style> #hey_hey [ border: solid 3px black;}</style>
+     
+      
+      <h1 id="hey">this website talking about the animals that live in the amazon rain foreast</h1>
+     <p>
+       The Amazon Rainforest boggles the mind with its sheer immensity and extraordinary biodiversity. 
+       
+     </p>
+     
+     
+      <img id="amazon" src="https://th.bing.com/th/id/R.7e83df85c2ef303a50d31b547b09b94e?rik=lDQ6GnMvi0o5wQ&riu=http%3a%2f%2fwww.worldatlas.com%2fupload%2f66%2fb9%2f79%2fthinkstockphotos-484964080.jpg&ehk=TRzDBjom1peiPXLObGjQEYBI%2fHYBEFM%2bY6%2bM0C%2fVjf4%3d&risl=&pid=ImgRaw&r=0" width="350">
+ 
+ 
+ <li>The estimated land area of 2.1 million square miles covers around 40% of South America and part of 9 countries, including Brazil, Columbia, Peru, Venezuela, Ecuador, Bolivia, French Guiana, Guyana, and Suriname. Approximately 30% of the world's known species can be found within this enormous and dense region, with new ones being constantly discovered. Unfortunately, deforestation and other habitat destruction have also led to mass extinctions and threaten the existence of many more unique and important species. The current model shows that the Amazon Rainforest is home to 427 mammal species, 1,300 bird species, 378 species of reptiles, and more than 400 species of amphibians. The following is a list of some of the most iconic and curious creatures one can find in the Amazon.
 
-Learn about bionics and understand the toughness of silk produced by several animals like the Morpho butterfly and silkworm, also a study on the bright, iridescent blue color of the Morpho butterfly
-Learn about bionics and understand the toughness of silk produced by several animals like the Morpho butterfly and silkworm, also a study on the bright, iridescent blue color of the Morpho butterflySee all videos for this article
-Chrysalis of the mourning cloak butterfly (Nymphalis antiopa) suspended by the cremaster, head downward.
-Chrysalis of the mourning cloak butterfly (Nymphalis antiopa) suspended by the cremaster, head downward.
-The wings, bodies, and legs, like those of moths, are covered with dustlike scales that come off when the animal is handled. Unlike moths, butterflies are active during the day and are usually brightly coloured or strikingly patterned. Perhaps the most distinctive physical features of the butterfly are its club-tipped antennae and its habit of holding the wings vertically over the back when at rest. The lepidopteran life cycle has four stages: egg, larva (caterpillar), pupa (chrysalis), and adult (imago). The larvae and adults of most butterflies feed on plants, often only specific parts of specific types of plants.
+</li>
+ <strong id="jugar">  jugar.  </strong> <img id="jugarl" src="https://www.worldatlas.com/r/w768/upload/8c/09/31/shutterstock-1219658011.jpg" width="350" >
+ <p>The jaguar's preternatural beauty and affiliated terror cause admirers and prey to freeze in their tracks. The stand-out spots are similar to the leopards of Africa and Asia, but a small dot in the center is the key point of differentiation. The jaguar (Panthera onca) is the biggest cat in the Americas and the third biggest in the world (behind lions and tigers). These magnificent carnivores are solitary but effective night hunters, both on land and water. They have even been known to attack caimans. Jaguars are classified as "Near Threatened" (NT) on the International Union for Conservation of Nature's Red List. Since the 1880s, they have lost nearly half of their territory, now mostly relying on the Amazon Basin and some parts of Central America. They also face threats from poachers and retaliatory killings by cattle ranchers.</p>
+ 
+ 
+ <strong>SLOTH</strong> <img id="hey_hey" src="https://www.worldatlas.com/r/w768/upload/89/f6/ed/shutterstock-604143956.jpg" width="350">
+ <p>These loveable slow-pokes also mostly keep to the rainforest canopy. They tend to sleep between 15 to 20 hours a day, and when it is time to feed, they cover a whopping 40 yards, collecting leaves, twigs, and buds along the way. Despite their morose movements, sloths always seem to have a smile on their face. They even enjoy a leisurely swim from time to time - putting those long, tree-hanging arms to secondary use. There are two different types of sloths, two-toed and three-toed, and six species (all of which are found within the tropical rain forests of Central and South America). Of these, the pygmy three-toed sloth (Bradypus pygmaeus), is listed as "Critically Endangered" (CR), and the maned sloth (Bradypus torquatus) is classified as "Vulnerable" (VU). 
 
-Green tree python snake (Chondropython viridis) in a rainforest.
-Britannica Quiz
-Creepy Crawlers Quiz
-Know about monarch butterflies and their long annual migration from North America's Great Lakes to Mexico
-Know about monarch butterflies and their long annual migration from North America's Great Lakes to MexicoSee all videos for this article
-Mourning cloak butterfly (Nymphalis antiopa).
-Mourning cloak butterfly (Nymphalis antiopa).
-The butterfly families include: Pieridae, the whites and sulfurs, known for their mass migrations; Papilionidae, the swallowtails and parnassians; Lycaenidae, including the blues, coppers, hairstreaks, and gossamer-winged butterflies; Riodinidae, the metalmarks, found chiefly in the American tropics; Nymphalidae, the brush-footed butterflies; Hesperiidae, the skippers; and Hedylidae, the American moth-butterflies (sometimes considered a sister group to Papilionoidea). The brush-footed butterflies represent the largest and most diverse family and include such popular butterflies as the admirals, fritillaries, monarchs, zebras, and painted ladies. See also lepidopteran for more detailed coverage.
-
-This article was most recently revised and updated by Kara Rogers.
-milkweed butterfly
-Home
-Science
-Bugs, Mollusks & Other Invertebrates
-Insects
-milkweed butterfly
-insect
-    
-Also known as: Danaidae, Danainae
-Written and fact-checked by 
-Last Updated: Article History
-milkweed butterfly
-milkweed butterfly
-See all media
-Related Topics: monarch butterfly brush-footed butterfly Asclepiadoideae queen butterfly
-milkweed butterfly, (subfamily Danainae), any of a group of butterflies in the brush-footed butterfly (q.v.) family, Nymphalidae (order Lepidoptera). Some authorities consider this group to be at the family level (Danaidae). The majority of species are found in both Old and New World tropics. However, some well-known members such as the monarch butterfly (q.v.) and the queen butterfly live in temperate regions. The large, colourful adults have long, usually brownish or orange wings marked by black-and-white patterns. The first pair of legs is small and not used for walking. They fly slowly and deliberately, and some, such as the monarch butterfly, migrate great distances.
-
-The larvae are often brightly banded or striped, with two to four pairs of fleshy projections protruding from the body. They feed chiefly on milkweed and sometimes on nightshade. These plants contain acrid, milky juices that probably make the larva and its subsequent stages distasteful to predators. This, combined with a conspicuous coloration, protects them. Many other butterflies benefit from this protection through mimicry.
-    
-    </li> </div>
-    
-    <a href="https://www.britannica.com/animal/milkweed-butterfly">
-        Click here for more detials 
-    </a>
-        
-    </body>
+</p>
+ <a href="https://www.worldatlas.com/animals/what-animals-live-in-the-amazon-rainforest.html">Click here for more detials</a>
+  </body>
 </html>
